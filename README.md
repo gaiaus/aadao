@@ -8,9 +8,7 @@ Additionally, this repository provides an overview of the Oversight Committee, i
 
 ## Background
 
-Following the contentious rejection of signaling Proposal [#82: ATOM 2.0: A new vision for Cosmos Hub](https://www.mintscan.io/cosmos/proposals/82).
-
-The Cosmos Hub subsequently passed Proposal [#88: Increase the Community Pool Tax on the Cosmos Hub - Parameter Change](https://www.mintscan.io/cosmos/proposals/88). Proposal #88 raised the community tax rate from 2% to 10%, with the stated objective of increasing inflows to the community pool to "support future funding initiatives that bring utility to the Cosmos Hub."
+Following the contentious rejection of signaling Proposal [#82: ATOM 2.0: A new vision for Cosmos Hub](https://www.mintscan.io/cosmos/proposals/82), the Cosmos Hub subsequently passed Proposal [#88: Increase the Community Pool Tax on the Cosmos Hub - Parameter Change](https://www.mintscan.io/cosmos/proposals/88). Proposal #88 raised the community tax rate from 2% to 10%, with the stated objective of increasing inflows to the community pool to "support future funding initiatives that bring utility to the Cosmos Hub."
 
 In this context of governance fatigue and increased community pool funds, the Atom Accelerator DAO (AADAO) was proposed and established via Proposal [#95.A Grant Program for the Cosmos Hub: Funding the ATOM Accelerator DAO](https://www.mintscan.io/cosmos/proposals/95). Proposal #95, submitted as a community spend proposal, sought to create an inaugural mandate for the Atom Accelerator DAO (AADAO). This proposal successfully secured funding of 588,000 ATOMs for the "ATOM Accelerator DAO Grant Program." 
 
@@ -23,6 +21,6 @@ Together the core members are responsible for program setup, review of proposals
 The oversight committee is responsible for ensuring the DAO operates efficiently and in the best interest of the Cosmos Hub by implementing policies and procedures, transparency reporting, and having oversight of internal operations.
 Oversight also has veto power to discontinue grants, and dismiss part-time/full-time contributors in the event of substantiated performance issues or severe misconduct.
 
-[History of core DAO, subDAOs, and Oversight Committee Members](https://github.com/gaiaus/aadao/blob/main/core_team/README.md)
+For more on the history and composition of core DAO, subDAO, and oversight committee members, please see [`team`](https://github.com/gaiaus/aadao/tree/main/team).
 
 ## [`Transparency Reports`](https://github.com/gaiaus/aadao/tree/main/transparency_reports)
