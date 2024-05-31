@@ -16,4 +16,11 @@ In this context of governance fatigue and increased community pool funds, the At
 
 This initiative was designed to strategically allocate resources to drive innovation and development within the Cosmos Hub. By doing so, it aimed to address governance challenges and ensure an efficient and accountable allocation of community-derived funds.
 
+## Team & Structure
+The DAO is split into two teams: the core DAO and the oversight committee. 
+Together the core members are responsible for program setup, review of proposals, interviewing of applicants, distribution of grants, and multisignature operations. 
+
+The oversight committee is responsible for ensuring the DAO operates efficiently and in the best interest of the Cosmos Hub by implementing policies and procedures, transparency reporting, and having oversight of internal operations.
+Oversight also has veto power to discontinue grants, and dismiss part-time/full-time contributors in the event of substantiated performance issues or severe misconduct.
+
 ## [`Transparency Reports`](https://github.com/gaiaus/aadao/tree/main/transparency_reports)
