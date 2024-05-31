@@ -21,6 +21,6 @@ Together the core members are responsible for program setup, review of proposals
 The oversight committee is responsible for ensuring the DAO operates efficiently and in the best interest of the Cosmos Hub by implementing policies and procedures, transparency reporting, and having oversight of internal operations.
 Oversight also has veto power to discontinue grants, and dismiss part-time/full-time contributors in the event of substantiated performance issues or severe misconduct.
 
-For more on the history and composition of core DAO, subDAO, and oversight committee members, please see [`team`](https://github.com/gaiaus/aadao/tree/main/team).
+For more on the history and composition of the core DAO, subDAO, and oversight committee members, please see [`team`](https://github.com/gaiaus/aadao/tree/main/team).
 
 ## [`Transparency Reports`](https://github.com/gaiaus/aadao/tree/main/transparency_reports)
