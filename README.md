@@ -16,3 +16,4 @@ In this context of governance fatigue and increased community pool funds, the At
 
 This initiative was designed to strategically allocate resources to drive innovation and development within the Cosmos Hub. By doing so, it aimed to address governance challenges and ensure an efficient and accountable allocation of community-derived funds.
 
+## [`Transparency Reports`](https://github.com/gaiaus/aadao/tree/main/transparency_reports)
