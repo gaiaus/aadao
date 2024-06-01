@@ -1,4 +1,4 @@
-# History of AADAO Core Contributors, SubDAO Membership, and Oversight Committee Membership
+## History of AADAO Core Contributors, SubDAO Membership, and Oversight Committee Membership
 
 Please be advised that the titles and designations of contributors and SubDAO members have evolved throughout the course of the DAO's development. 
 
@@ -95,5 +95,5 @@ Source: [Cosmos Hub Forum Post, Youssef Amrani, Jan 2023](https://forum.cosmos.n
 
 Source: [Cosmos Hub Forum Post, Youssef Amrani, Jan 2023](https://forum.cosmos.network/t/funding-the-cosmos-hub-grant-program/8965?u=cosmos_nanny)
 
-[Cosmos Hub Forum, Proposal 895 Post](https://forum.cosmos.network/t/proposal-895-accepted-funding-atom-accelerator-dao-for-2024/12249?u=cosmos_nanny)
+[Cosmos Hub Forum Post, AADAO, Nov 2023](https://forum.cosmos.network/t/proposal-895-accepted-funding-atom-accelerator-dao-for-2024/12249?u=cosmos_nanny)
 
