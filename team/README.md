@@ -75,7 +75,7 @@ Former [PwC](https://www.pwc.com/us/en.html) auditor with 10+ years in audit, ri
 
 Strategy, Special Situations, & Operations Consultant. Former Head of Strategy and Growth at [Ignite](https://ignite.com/). 
 
-## Former Contributors
+## _Former_ Contributors
 
 ### Dilan Asatekin 
 **Grant subDAO**, 50%FTE  
@@ -86,6 +86,16 @@ Founder of [Imperator](https://www.imperator.co/).
 **Grant subDAO**, 50% FTE
 
 Chief Investment Officer at [Chorus One](https://chorus.one/).
+
+### [Mikey Lee](https://x.com/mikeyjhlee)
+**Grant subDAO**
+
+Head of BD, [Cosmostation](https://cosmostation.io/)
+
+### [Jason Choi](https://x.com/mrjasonchoi)
+**Oversight Committee**
+
+Co-founder of [Tangent Ventures](https://www.tangent.ventures/), former GP of [Spartan Group](https://x.com/TheSpartanGroup).
 
 ## Inaugural Core Team
 
@@ -109,7 +119,7 @@ Source: [Cosmos Hub Forum Post, Youssef Amrani, Jan 2023](https://forum.cosmos.n
 
 ## Inaugural Oversight Committee
 
-* **Senior**: Jason Choi, Founder of angel investing collective Tangent 3. Hosts the popular Blockcrunch podcast 1. Formerly General Partner at Spartan Capita 2l.
+* **Senior**: Jason Choi, Founder of angel investing collective Tangent 3. Hosts the popular Blockcrunch podcast. Formerly General Partner at Spartan Capita 2l.
 
 * **Auditor/Controller**: Patricia Mizuki, formerly PwC auditor, over 10 years of experience of audit, risk management and process improvements.
 
