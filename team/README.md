@@ -25,23 +25,23 @@ Has 8+ years of experience in BD and venture investments, across 13 ecosystems. 
 ### [Riley Edmunds](https://x.com/interchainriley)  
 **Strategy Committee**, 15% FTE 
 
-Co-founder Stride Labs and ex-Bridgewater associate. He was the head of machine learning research at Berkeley.
+Co-founder [Stride Labs](https://www.stride.zone/) and ex-[Bridgewater](https://www.bridgewater.com/) associate. He was the head of machine learning research at Berkeley.
 
 ### [Delisse Gamboa](https://www.linkedin.com/in/delisse-gamboa/)  
 **AADAO assistant**, 50% FTE
 
-Formerly assistant at Delphi Digital.
+Formerly assistant at [Delphi Digital](https://delphidigital.io/).
 
 ### [Facundo Medica](https://x.com/FacundoMedica)  
 **Grant subDAO**, 35% FTE.
 
-Core Dev at Binary Builders.
+Core Dev at [Binary Builders](https://binary.builders/).
 
 
 ### [Reena Shtedle](https://x.com/neshtedle) 
 **Grant subDAO**, 100% FTE
 
-Web3 native with an academic background in Math, CS, and social theory. Held key roles at Paradigm Research. Co-founder and Board Member of Citadel1, and former BD and DevRel.
+Web3 native with an academic background in Math, CS, and social theory. Held key roles at Paradigm Research. Co-founder and Board Member of [Citadel1](https://citadel.one/), and former BD and DevRel.
 
 ### [Joni Z](https://x.com/Curious__J)  
 Grant subDAO, 100% FTE
@@ -54,24 +54,24 @@ Co-founder of educational Blockchain Insight Group.
 ### [Damien Bonello](https://x.com/damobon)  
 **Oversight Committee, Coordinator**, 35% FTE
 
-Protocol Specialist and Governance Lead for Simply Staking. He holds a background in Finance and Economics.
+Protocol Specialist and Governance Lead for [Simply Staking](https://simplystaking.com/). He holds a background in Finance and Economics.
 
 ### Patricia Mizuki  
 **Oversight Committe. Auditor/Controller**, 35% FTE 
 
-Former PwC auditor with 10+ years in audit, risk management and process improvements.
+Former [PwC](https://www.pwc.com/us/en.html) auditor with 10+ years in audit, risk management and process improvements.
 
 ## Former Contributors
 
 ### Dilan Asatekin 
 **Grant Sub-DAO**, 50%FTE  
 
-Founder of Imperator.
+Founder of [Imperator](https://www.imperator.co/).
 
 ### [Xavier Meegan](https://x.com/0xave) 
 **Grant subDAO**, 50% FTE
 
-Chief Investment Officer at Chorus One.
+Chief Investment Officer at [Chorus One](https://chorus.one/).
 
 ## Inaugural Core Team
 
