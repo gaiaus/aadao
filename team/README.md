@@ -50,14 +50,13 @@ Core Dev at [Binary Builders](https://binary.builders/).
 ### [Riley Edmunds](https://x.com/interchainriley)  
 **Strategy Committee**, 15% FTE 
 
+Co-founder [Stride Labs](https://www.stride.zone/) and ex-[Bridgewater](https://www.bridgewater.com/) associate. He was the head of machine learning research at Berkeley.
 
 ### [Carter Lee Woetzel](https://x.com/l_woetzel)
 **Strategy Committee**
 
 Lead Researcher at [Shade Protocol](https://shadeprotocol.io/).
 
-
-Co-founder [Stride Labs](https://www.stride.zone/) and ex-[Bridgewater](https://www.bridgewater.com/) associate. He was the head of machine learning research at Berkeley.
 
 ## AADAO Oversight Committee
 
