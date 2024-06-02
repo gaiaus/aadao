@@ -39,6 +39,13 @@ For more information on AADAO grantees in a given funding year, please follow th
 
 ## [`Wallets`](https://github.com/gaiaus/aadao/tree/main/wallets)
 
+The AADAO operates on two wallets: the **main multi-signature wallet** for _grant delivery_ and a **smaller multi-signature wallet** for _operational expenditures_. 
+
+The **main wallet** is a 4 of 7 multisig: [cosmos1jggracsvp6fkw0ktf544lpda6dwrrxggx9a20n](https://www.mintscan.io/cosmos/address/cosmos1jggracsvp6fkw0ktf544lpda6dwrrxggx9a20n) 
+
+The **operational wallet** is a 2 of 3 multisig: [cosmos14scyumpc9gw2p2py6ms06n4j9ejv650d0jx76v](https://www.mintscan.io/cosmos/address/cosmos14scyumpc9gw2p2py6ms06n4j9ejv650d0jx76v) 
+
+
 ## subDAO Addresses
 
 * [**Grants Committee**](https://daodao.zone/dao/neutron10xwzc88kefwtlup9c2tmw4mj4ng7u79g8lsapp0c9jc02xt247zqwzzghf/home)
