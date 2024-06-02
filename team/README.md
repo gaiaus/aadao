@@ -44,7 +44,8 @@ Chief Investment Officer at Chorus One.
 
 ### [Reena Shtedle](https://x.com/neshtedle) 
 **Grant subDAO**, 100% FTE
-Web3 native with an academic background in Math, CS, and Social theory. Held key roles at Paradigm Research and Citadel.one where she co-founded and served as CBDO and DevRel.
+
+Web3 native with an academic background in Math, CS, and social theory. Held key roles at Paradigm Research. Co-founder and Board Member of Citadel1, and former BD and DevRel.
 
 ### [Joni Z](https://x.com/Curious__J)  
 Grant subDAO, 100% FTE
