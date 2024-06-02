@@ -67,7 +67,7 @@ Former [PwC](https://www.pwc.com/us/en.html) auditor with 10+ years in audit, ri
 ## Former Contributors
 
 ### Dilan Asatekin 
-**Grant Sub-DAO**, 50%FTE  
+**Grant subDAO**, 50%FTE  
 
 Founder of [Imperator](https://www.imperator.co/).
 
