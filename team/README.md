@@ -77,7 +77,7 @@ Strategy, Special Situations, & Operations Consultant. Former Head of Strategy a
 
 ## _Former_ Contributors
 
-### Dilan Asatekin 
+### [Dilan Asatekin](https://www.linkedin.com/in/dilanasatekin/?originalSubdomain=fr) 
 **Grant subDAO**, 50%FTE  
 
 Founder of [Imperator](https://www.imperator.co/).
