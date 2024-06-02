@@ -5,7 +5,7 @@ The AADAO operates on two wallets: the **main multi-signature wallet** for _gran
 
 The main wallet is a 4 of 7 multisig. The operational wallet is a 2 of 3 multisig. 
 
-For AADAO Balance Sheet, Income Statement and Cash Flow Management, please refer to [`transparency_reports`]( 
+For AADAO Balance Sheet, Income Statement and Cash Flow Management, please refer to [`transparency_reports`](https://github.com/gaiaus/aadao/tree/main/transparency_reports). 
 
 * **Main wallet**: [cosmos1jggracsvp6fkw0ktf544lpda6dwrrxggx9a20n](https://www.mintscan.io/cosmos/address/cosmos1jggracsvp6fkw0ktf544lpda6dwrrxggx9a20n) 
 
