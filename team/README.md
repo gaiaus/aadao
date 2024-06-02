@@ -121,7 +121,7 @@ Source: [Cosmos Hub Forum Post, Youssef Amrani, Jan 2023](https://forum.cosmos.n
 
 ## Inaugural Oversight Committee
 
-* **Senior**: Jason Choi, Founder of angel investing collective Tangent 3. Hosts the popular Blockcrunch podcast. Formerly General Partner at Spartan Capita 2l.
+* **Senior**: Jason Choi, Founder of angel investing collective Tangent. Hosts the popular Blockcrunch podcast. Formerly General Partner at Spartan Capital.
 
 * **Auditor/Controller**: Patricia Mizuki, formerly PwC auditor, over 10 years of experience of audit, risk management and process improvements.
 
