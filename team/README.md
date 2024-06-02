@@ -1,11 +1,10 @@
-## History of AADAO Core Contributors, SubDAO Membership, and Oversight Committee Membership
+# History of AADAO Core Contributors, SubDAO Membership, and Oversight Committee Membership
 
 Please be advised that the titles and designations of contributors and SubDAO members have evolved throughout the course of the DAO's development. 
 
 This roster representation is organized chronologically, starting with the current members and moving backward to previous contributors.
 
-
-
+## Current Contributors
 
 ### [Youssef Amrani](https://x.com/youssef_amrani) 
 **Program Manager and Strategy Committee Lead**, 100% FTE
