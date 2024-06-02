@@ -19,6 +19,7 @@ Co-founder of AADAO with a background in finance, BD, marketing, engineering man
 
 ### [Syed Choudhury](https://x.com/syedchoudhury?t=g-ANEWbJe3eP0FV4ka0crw&s=09)
 **Marketing subDAO Lead**, 100% FTE
+
 Former Head of Communications at the [Interchain Foundation](https://interchain.io/). 
 
 ### [0xJordy](https://x.com/0xjordy)
