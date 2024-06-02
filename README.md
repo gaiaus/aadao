@@ -38,3 +38,14 @@ For more information on AADAO grantees in a given funding year, please follow th
 ## [`Transparency Reports`](https://github.com/gaiaus/aadao/tree/main/transparency_reports)
 
 ## [`Wallets`](https://github.com/gaiaus/aadao/tree/main/wallets)
+
+## subDAO Addresses
+
+* [**Grants Committee**](https://daodao.zone/dao/neutron10xwzc88kefwtlup9c2tmw4mj4ng7u79g8lsapp0c9jc02xt247zqwzzghf/home)
+
+* [**Operations Committee**](https://daodao.zone/dao/neutron1t8esqdrptfxj9th28ysa9cnxlnnhmrsukl4vlsjp7207vs8adpfqhfu4s3/home)
+
+* [**Oversight Committee**](https://daodao.zone/dao/neutron1y0ms6y2ja7j6fpcq382dyejgm99re5jzmnnrsrn5gn8h2ldukj7sak39ry)
+
+* [**Strategy Committee**](https://daodao.zone/dao/neutron1rxul9vzdct7ksvf0cvccf02ukg0phun6s2hfneg35hxm7ldmtu6s7pdav7)
+
