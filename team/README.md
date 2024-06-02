@@ -97,6 +97,9 @@ Head of BD, [Cosmostation](https://cosmostation.io/)
 
 Co-founder of [Tangent Ventures](https://www.tangent.ventures/), former GP of [Spartan Group](https://x.com/TheSpartanGroup).
 
+### [Ben Davis](https://x.com/The_BendyOne)
+**Program Coordinator** (_role deprecated_)
+
 ## Inaugural Core Team
 
 * **Program Manager**: [Youssef Amrani](https://x.com/youssef_amrani). To lead program structuring, strategy & outreach.
