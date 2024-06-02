@@ -17,10 +17,9 @@ Co-founder of AADAO and also serves on the Economic Committee of the IST stablec
 
 Co-founder of AADAO with a background in finance, BD, marketing, engineering management, R&D, seed investing, grants, and strategy. Doctorate from Stanford University.
 
-### Dilan Asatekin 
-**Grant Sub-DAO**, 50%FTE  
-
-Founder of Imperator
+### [0xJordy](https://x.com/0xjordy)
+**Venture Grants Specialist**, 100% FTE
+Has 8+ years of experience in BD and venture investments, across 13 ecosystems. Will lead AADAO ["Venture Grants Program"](https://www.atomaccelerator.com/blog/introducing-the-cosmos-hubs-first-venture-grant-elys-network).
 
 ### [Riley Edmunds](https://x.com/interchainriley)  
 **Strategy Committee**, 15% FTE 
@@ -64,6 +63,12 @@ Protocol Specialist and Governance Lead for Simply Staking. He holds a backgroun
 
 Former PwC auditor with 10+ years in audit, risk management and process improvements.
 
+## Former Contributors
+
+### Dilan Asatekin 
+**Grant Sub-DAO**, 50%FTE  
+
+Founder of Imperator
 
 ## Inaugural Core Team
 
@@ -88,8 +93,6 @@ Source: [Cosmos Hub Forum Post, Youssef Amrani, Jan 2023](https://forum.cosmos.n
 ## Inaugural Oversight Committee
 
 * **Senior**: Jason Choi, Founder of angel investing collective Tangent 3. Hosts the popular Blockcrunch podcast 1. Formerly General Partner at Spartan Capita 2l.
-
-* **Coordinator**: vacant, "recruiting underway"
 
 * **Auditor/Controller**: Patricia Mizuki, formerly PwC auditor, over 10 years of experience of audit, risk management and process improvements.
 
