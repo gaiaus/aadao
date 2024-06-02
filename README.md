@@ -12,7 +12,7 @@ Following the contentious rejection of signaling Proposal [#82: ATOM 2.0: A new 
 
 In this context of governance fatigue and increased community pool funds, the Atom Accelerator DAO (AADAO) was proposed and established via Proposal [#95: A Grant Program for the Cosmos Hub: Funding the ATOM Accelerator DAO](https://www.mintscan.io/cosmos/proposals/95). Proposal #95, submitted as a community spend proposal, sought to create an inaugural mandate for the Atom Accelerator DAO (AADAO). This proposal successfully secured funding of 588,000 ATOM for the "ATOM Accelerator DAO Grant Program." 
 
-Having completed its pilot phase through Proposal #95, ATOM Accelerator DAO aimed to soldify its role as a strategic allcoator of resources to drive innovation and development on the Cosmos Hub. 
+Having completed its pilot phase through Proposal #95, ATOM Accelerator DAO aimed to soldify its role as a strategic allocator of resources to drive innovation and development on the Cosmos Hub. 
 On December 16th, 2023 Proposal [#865: Funding ATOM Accelerator DAO (AADAO) renewal proposal](https://www.mintscan.io/cosmos/proposals/865/) went live on chain, the proposal sought 975,811 ATOM in funding for the next chapter, which included a bonus allocation of 100,000 ATOM. The renewal proposal #865 was passed on December 30th, 2023, which secured an increase in 65.95% ATOM from the previous year.  
 
 ## Team & Structure
