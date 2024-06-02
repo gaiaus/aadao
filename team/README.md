@@ -71,7 +71,7 @@ Protocol Specialist and Governance Lead for [Simply Staking](https://simplystaki
 
 Former [PwC](https://www.pwc.com/us/en.html) auditor with 10+ years in audit, risk management and process improvements.
 
-### Grace Yu
+### [Grace Yu](https://x.com/gyunit_)
 **Oversight Committee, Elected Member**, 35% FTE
 
 Strategy, Special Situations, & Operations Consultant. Former Head of Strategy and Growth at [Ignite](https://ignite.com/). 
