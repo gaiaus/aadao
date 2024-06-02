@@ -19,6 +19,7 @@ Co-founder of AADAO with a background in finance, BD, marketing, engineering man
 
 ### [0xJordy](https://x.com/0xjordy)
 **Venture Grants Specialist**, 100% FTE
+
 Has 8+ years of experience in BD and venture investments, across 13 ecosystems. Will lead AADAO ["Venture Grants Program"](https://www.atomaccelerator.com/blog/introducing-the-cosmos-hubs-first-venture-grant-elys-network).
 
 ### [Riley Edmunds](https://x.com/interchainriley)  
