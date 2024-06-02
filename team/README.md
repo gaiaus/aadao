@@ -37,10 +37,6 @@ Formerly assistant at Delphi Digital.
 
 Core Dev at Binary Builders.
 
-### [Xavier Meegan](https://x.com/0xave) 
-**Grant subDAO**, 50% FTE
-
-Chief Investment Officer at Chorus One.
 
 ### [Reena Shtedle](https://x.com/neshtedle) 
 **Grant subDAO**, 100% FTE
@@ -70,7 +66,12 @@ Former PwC auditor with 10+ years in audit, risk management and process improvem
 ### Dilan Asatekin 
 **Grant Sub-DAO**, 50%FTE  
 
-Founder of Imperator
+Founder of Imperator.
+
+### [Xavier Meegan](https://x.com/0xave) 
+**Grant subDAO**, 50% FTE
+
+Chief Investment Officer at Chorus One.
 
 ## Inaugural Core Team
 
