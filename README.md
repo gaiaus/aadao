@@ -25,3 +25,5 @@ Oversight also has veto power to discontinue grants, and dismiss part-time/full-
 For more on the history and composition of the core DAO, subDAO, and oversight committee members, please see [`team`](https://github.com/gaiaus/aadao/tree/main/team).
 
 ## [`Transparency Reports`](https://github.com/gaiaus/aadao/tree/main/transparency_reports)
+
+## [`Wallets`](https://github.com/gaiaus/aadao/tree/main/wallets)
