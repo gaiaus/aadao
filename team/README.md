@@ -33,7 +33,7 @@ Has 8+ years of experience in BD and venture investments, across 13 ecosystems. 
 Web3 native with an academic background in Math, CS, and social theory. Held key roles at Paradigm Research. Co-founder and Board Member of [Citadel1](https://citadel.one/), and former BD and DevRel.
 
 ### [Joni Z](https://x.com/Curious__J)  
-Grant subDAO, 100% FTE
+**Grant subDAO**, 100% FTE
 
 Co-founder of educational Blockchain Insight Group.
 
