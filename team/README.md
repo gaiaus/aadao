@@ -65,7 +65,7 @@ Lead Researcher at [Shade Protocol](https://shadeprotocol.io/).
 
 Protocol Specialist and Governance Lead for [Simply Staking](https://simplystaking.com/). He holds a background in Finance and Economics.
 
-### Patricia Mizuki  
+### [Patricia Mizuki](https://www.linkedin.com/in/patricia-mizuki-cia-b6334a5a/?originalSubdomain=ca)  
 **Oversight Committee, Auditor/Controller**, 35% FTE 
 
 Former [PwC](https://www.pwc.com/us/en.html) auditor with 10+ years in audit, risk management and process improvements.
