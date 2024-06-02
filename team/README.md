@@ -72,7 +72,7 @@ Former [PwC](https://www.pwc.com/us/en.html) auditor with 10+ years in audit, ri
 ### [Grace Yu](https://x.com/gyunit_)
 **Oversight Committee, Elected Member**, 35% FTE
 
-Strategy, Special Situations, & Operations Consultant. Former Head of Strategy and Growth at [Ignite](https://ignite.com/). Grace won the first-ever on-chain election on the Cosmos Hub. Her proposal [#920 AADAO Oversight Election: Vote for Grace (Cosmos Nanny)](https://www.mintscan.io/cosmos/proposals/920/) won by a margin of [5,439,569 ATOM](5,439,569 ATOM).
+Strategy, Special Situations, & Operations Consultant. Former Head of Strategy and Growth at [Ignite](https://ignite.com/). Grace won the first-ever on-chain election on the Cosmos Hub. Her proposal [#920 AADAO Oversight Election: Vote for Grace (Cosmos Nanny)](https://www.mintscan.io/cosmos/proposals/920/) won by a margin of [5,439,569 ATOM](https://x.com/ATOMAccelerator/status/1794127676854489236).
 
 ## _Former_ Contributors
 
