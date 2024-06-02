@@ -96,7 +96,8 @@ Source: [Cosmos Hub Forum Post, Youssef Amrani, Jan 2023](https://forum.cosmos.n
 
 * **Auditor/Controller**: Patricia Mizuki, formerly PwC auditor, over 10 years of experience of audit, risk management and process improvements.
 
-Source: [Cosmos Hub Forum Post, Youssef Amrani, Jan 2023](https://forum.cosmos.network/t/funding-the-cosmos-hub-grant-program/8965?u=cosmos_nanny)
+Sources: 
+* [Cosmos Hub Forum Post, Youssef Amrani, Jan 2023](https://forum.cosmos.network/t/funding-the-cosmos-hub-grant-program/8965?u=cosmos_nanny)
 
-[Cosmos Hub Forum Post, AADAO, Nov 2023](https://forum.cosmos.network/t/proposal-895-accepted-funding-atom-accelerator-dao-for-2024/12249?u=cosmos_nanny)
+* [Cosmos Hub Forum Post, AADAO, Nov 2023](https://forum.cosmos.network/t/proposal-895-accepted-funding-atom-accelerator-dao-for-2024/12249?u=cosmos_nanny)
 
