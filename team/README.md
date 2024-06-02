@@ -17,26 +17,14 @@ Co-founder of AADAO and also serves on the Economic Committee of the IST stablec
 
 Co-founder of AADAO with a background in finance, BD, marketing, engineering management, R&D, seed investing, grants, and strategy. Doctorate from Stanford University.
 
+### [Syed Choudhury](https://x.com/syedchoudhury?t=g-ANEWbJe3eP0FV4ka0crw&s=09)
+**Marketing subDAO Lead**, 100% FTE
+Former Head of Communications at the [Interchain Foundation](https://interchain.io/). 
+
 ### [0xJordy](https://x.com/0xjordy)
 **Venture Grants Specialist**, 100% FTE
 
 Has 8+ years of experience in BD and venture investments, across 13 ecosystems. Will lead AADAO ["Venture Grants Program"](https://www.atomaccelerator.com/blog/introducing-the-cosmos-hubs-first-venture-grant-elys-network).
-
-### [Riley Edmunds](https://x.com/interchainriley)  
-**Strategy Committee**, 15% FTE 
-
-Co-founder [Stride Labs](https://www.stride.zone/) and ex-[Bridgewater](https://www.bridgewater.com/) associate. He was the head of machine learning research at Berkeley.
-
-### [Delisse Gamboa](https://www.linkedin.com/in/delisse-gamboa/)  
-**AADAO assistant**, 50% FTE
-
-Formerly assistant at [Delphi Digital](https://delphidigital.io/).
-
-### [Facundo Medica](https://x.com/FacundoMedica)  
-**Grant subDAO**, 35% FTE.
-
-Core Dev at [Binary Builders](https://binary.builders/).
-
 
 ### [Reena Shtedle](https://x.com/neshtedle) 
 **Grant subDAO**, 100% FTE
@@ -48,6 +36,20 @@ Grant subDAO, 100% FTE
 
 Co-founder of educational Blockchain Insight Group.
 
+### [Delisse Gamboa](https://www.linkedin.com/in/delisse-gamboa/)  
+**AADAO assistant**, 50% FTE
+
+Formerly assistant at [Delphi Digital](https://delphidigital.io/).
+
+### [Facundo Medica](https://x.com/FacundoMedica)  
+**Grant subDAO**, 35% FTE.
+
+Core Dev at [Binary Builders](https://binary.builders/).
+
+### [Riley Edmunds](https://x.com/interchainriley)  
+**Strategy Committee**, 15% FTE 
+
+Co-founder [Stride Labs](https://www.stride.zone/) and ex-[Bridgewater](https://www.bridgewater.com/) associate. He was the head of machine learning research at Berkeley.
 
 ## AADAO Oversight Committee
 
