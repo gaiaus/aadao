@@ -21,13 +21,16 @@ Co-founder of AADAO with a background in finance, BD, marketing, engineering man
 
 Former Head of Communications at the [Interchain Foundation](https://interchain.io/). 
 
-### [0xJordy](https://x.com/0xjordy)
+### [Jordan Andrews](https://x.com/0xjordy)
 **Venture Grants Specialist**, 100% FTE
 
 Has 8+ years of experience in BD and venture investments, across 13 ecosystems. Will lead AADAO ["Venture Grants Program"](https://www.atomaccelerator.com/blog/introducing-the-cosmos-hubs-first-venture-grant-elys-network).
 
 ### [Mark Dencker](https://x.com/MarkDencker)
 **Grants subDAO, Lead**, 100% FTE
+
+Built and sold three software companies. Hosted 120+ Cosmos teams on spaces. Passionate about helping teams succeed.
+
 
 ### [Reena Shtedle](https://x.com/neshtedle) 
 **Grant subDAO**, 100% FTE
