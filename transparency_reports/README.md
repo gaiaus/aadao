@@ -1,4 +1,6 @@
-## AADAO Transparency Reports
+# AADAO Transparency Reports & Impact Reports
+
+## 2023
 
 ### [Transparency Report #1](https://medium.com/@atomaccelerator/atom-accelerator-dao-transparency-report-month-1-d1e83a3b63a0_)
 Published: March 17, 2023
@@ -25,8 +27,10 @@ Published: December 2023
 
 Platform: [AADAO website](https://www.atomaccelerator.com/blog/2023-impact-report)
 
+## 2024
+
 ### [Transparency Report #5](https://forum.cosmos.network/t/atom-accelerator-dao-transparency-report-5/13343)
-Published: February 22, 2023
+Published: February 22, 2024
 
 Platform: Cosmos Hub Forum
 
