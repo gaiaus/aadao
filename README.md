@@ -34,6 +34,10 @@ For more information on AADAO grantees in a given funding year, please follow th
 
 * [**2024**](https://github.com/gaiaus/aadao/blob/main/grantees/2024.md)
 
+## [Venture Program](https://github.com/gaiaus/aadao/blob/main/ventures/README.md)
+
+
+
 
 ## [`Transparency Reports`](https://github.com/gaiaus/aadao/tree/main/transparency_reports)
 
