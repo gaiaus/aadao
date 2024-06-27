@@ -34,7 +34,11 @@ For more information on AADAO grantees in a given funding year, please follow th
 
 * [**2024**](https://github.com/gaiaus/aadao/blob/main/grantees/2024.md)
 
-## [Venture Program](https://github.com/gaiaus/aadao/blob/main/ventures/README.md)
+## [`Venture Program`](https://github.com/gaiaus/aadao/blob/main/ventures/README.md)
+
+Venture investments (aka "venture grants") deployed through AADAO offer a strategic and impactful way for the Cosmos Hub to support ecosystem growth, foster innovation, and align with its long-term objectives. By investing in early-stage projects and entrepreneurs, the Cosmos Hub will strengthen its position as a leader in decentralized infrastructure and drive sustainable value creation for its community and stakeholders.
+
+* [**2024**](https://github.com/gaiaus/aadao/blob/main/ventures/2024.md)
 
 
 
