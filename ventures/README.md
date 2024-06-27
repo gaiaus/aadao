@@ -1,4 +1,4 @@
-# AADAO Venture Investment Program (aka Venture "Grants")
+# AADAO Venture Investment Program (aka "Venture Grants")
 Venture grants deployed through AADAO offer a strategic and impactful way for the Cosmos Hub to support ecosystem growth, foster innovation, and align with its long-term objectives. By investing in early-stage projects and entrepreneurs, the Cosmos Hub will strengthen its position as a leader in decentralized infrastructure and drive sustainable value creation for its community and stakeholders.
 
 ## Investment Priorities
