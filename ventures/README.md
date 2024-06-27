@@ -23,7 +23,7 @@ In aggregate, these investments will be focused on contributing to higher level 
 
 • Improve the adoption of ATOM as gas
 
-## Why venture investments?
+## Why Venture Deals?
 
 1. Ecosystem Growth and Innovation: Venture grants provide financial support to early-stage builders and entrepreneurs, encouraging them to innovate and develop new projects within the Cosmos ecosystem. This funding can catalyze the creation of novel applications, protocols, and services that leverage the capabilities of the Cosmos Hub and contribute to its overall growth.
 ‍
