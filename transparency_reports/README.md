@@ -20,8 +20,10 @@ Published: September 27, 2023
 
 Platform: [Medium, @atomaccelerator](https://medium.com/@atomaccelerator)
 
-### [2023 Impact Report](https://www.atomaccelerator.com/blog/2023-impact-report)
-REPORT MISSING
+### [2023 Impact Report](https://publuu.com/flip-book/307919/712604)
+Published: December 2023
+
+Platform: [AADAO website](https://www.atomaccelerator.com/blog/2023-impact-report)
 
 ### [Transparency Report #5](https://forum.cosmos.network/t/atom-accelerator-dao-transparency-report-5/13343)
 Published: February 22, 2023
