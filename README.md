@@ -45,6 +45,10 @@ Venture investments (aka "venture grants") deployed through AADAO offer a strate
 
 ## [`Transparency Reports`](https://github.com/gaiaus/aadao/tree/main/transparency_reports)
 
+* [**2023**](https://github.com/gaiaus/aadao/tree/main/transparency_reports#2023)
+
+* [**2024**](https://github.com/gaiaus/aadao/tree/main/transparency_reports#2024)
+
 ## [`Wallets`](https://github.com/gaiaus/aadao/tree/main/wallets)
 
 The AADAO operates on two wallets: the **main multi-signature wallet** for _grant delivery_ and a **smaller multi-signature wallet** for _operational expenditures_. 
