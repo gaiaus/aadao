@@ -44,7 +44,7 @@ Co-founder of educational Blockchain Insight Group.
 ### [Delisse Gamboa](https://www.linkedin.com/in/delisse-gamboa/)  
 **AADAO assistant**, 50% FTE
 
-Formerly assistant at [Delphi Digital](https://delphidigital.io/).
+Former assistant at [Delphi Digital](https://delphidigital.io/).
 
 ### [Facundo Medica](https://x.com/FacundoMedica)  
 **Grant subDAO**, 35% FTE.
