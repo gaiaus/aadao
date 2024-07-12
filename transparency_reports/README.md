@@ -41,4 +41,5 @@ Published: May 14, 2024
 Platform: [Medium, @atomaccelerator](https://medium.com/@atomaccelerator)
 
 ### [“Navigating Growth: An In-Depth Retrospective on 2023 Grants”](https://docs.google.com/document/d/1uS4SNL7I5EqFxFUYsIziwUDz7Z0_afWCYwqWCyWi8js/edit#heading=h.6tn7ip2hbyg5)
+*This report is a comprehensive retrospective analysis on all grants issued since commencement of grant-making activities. Provides overview of "what went right" and "what went wrong."*
 Published: July 4, 2024
