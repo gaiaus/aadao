@@ -23,6 +23,7 @@ Published: September 27, 2023
 Platform: [Medium, @atomaccelerator](https://medium.com/@atomaccelerator)
 
 ### [2023 Impact Report](https://publuu.com/flip-book/307919/712604)
+*The "Impact Report" is akin to an annual report.*
 Published: December 2023
 
 Platform: [AADAO website](https://www.atomaccelerator.com/blog/2023-impact-report)
@@ -38,3 +39,6 @@ Platform: Cosmos Hub Forum
 Published: May 14, 2024
 
 Platform: [Medium, @atomaccelerator](https://medium.com/@atomaccelerator)
+
+### [“Navigating Growth: An In-Depth Retrospective on 2023 Grants”](https://docs.google.com/document/d/1uS4SNL7I5EqFxFUYsIziwUDz7Z0_afWCYwqWCyWi8js/edit#heading=h.6tn7ip2hbyg5)
+Published: July 4, 2024
