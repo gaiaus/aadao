@@ -1,4 +1,4 @@
-# History of AADAO Core Contributors, SubDAO Membership, and Oversight Committee Membership
+# Current & Former Contributors: Core DAO & Oversight Committee
 
 Please be advised that the titles and designations of contributors and SubDAO members have evolved throughout the course of the DAO's development. 
 
