@@ -22,11 +22,13 @@ Published: September 27, 2023
 
 Channel: [Medium, @atomaccelerator](https://medium.com/@atomaccelerator)
 
+
 ### [2023 Impact Report](https://publuu.com/flip-book/307919/712604)
 *The "Impact Report" is akin to an annual report.*
 Published: December 2023
 
 Channel: [AADAO website](https://www.atomaccelerator.com/blog/2023-impact-report)
+
 
 ## 2024
 
@@ -39,6 +41,11 @@ Channel: Cosmos Hub Forum
 Published: May 14, 2024
 
 Channel: [Medium, @atomaccelerator](https://medium.com/@atomaccelerator)
+
+### [Transparency Report #7](https://docs.google.com/document/d/11NZ-UMIiduSDS7s2jaiSLm_J7GGa3ga-UgVP1fko0Kw/edit?usp=sharing)
+Published: July 30, 2024
+
+Channel: [Cosmos Hub Forum](https://forum.cosmos.network/t/atom-accelerator-dao-transparency-report-7/14199)
 
 ### [“Navigating Growth: An In-Depth Retrospective on 2023 Grants”](https://docs.google.com/document/d/1uS4SNL7I5EqFxFUYsIziwUDz7Z0_afWCYwqWCyWi8js/edit#heading=h.6tn7ip2hbyg5)
 *This report is a comprehensive retrospective analysis on all grants issued since commencement of grant-making activities. Provides overview of "what went right" and "what went wrong."*
