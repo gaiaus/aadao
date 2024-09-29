@@ -8,7 +8,7 @@ Additionally, this repository provides an overview of the Oversight Committee, i
 
 In accordance with her campaign promise to enhance transparency and monitoring capabilities for the key activities of the AADAO, the elected member of the Oversight Committee has created and maintains this repository. The primary objective of this repository is to provide the community with pertinent, accurate, and timely information, acknowledging that effective accountability is a collaborative endeavor between the core DAO contributors, Oversight members, and its community stakeholders.
 
-For deatils regarding grant activities, please refer to the following section: [`grantees`](https://github.com/gaiaus/aadao/tree/main/grantees)
+For deatils regarding grant activities, please refer to the following section: [`grants`](https://github.com/gaiaus/aadao/tree/main/grants)
 
 For details regarding venture investments, please refer to the following section: [`ventures`](https://github.com/gaiaus/aadao/tree/main/ventures)
 
