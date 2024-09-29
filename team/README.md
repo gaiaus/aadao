@@ -6,11 +6,6 @@ This roster representation is organized chronologically, starting with the curre
 
 ## Current Contributors
 
-### [Youssef Amrani](https://x.com/youssef_amrani) 
-**Program Manager and Strategy Committee Lead**, 100% FTE
-
-Co-founder of AADAO and also serves on the Economic Committee of the IST stablecoin. McGill University graduate in International Business and Finance.
-
 ### [Better Future](https://x.com/BetterCio)  
 **Grant subDAO, Strategy Committee**, 100% FTE
 
@@ -51,11 +46,6 @@ Former assistant at [Delphi Digital](https://delphidigital.io/).
 
 Core Dev at [Binary Builders](https://binary.builders/).
 
-### [Riley Edmunds](https://x.com/interchainriley)  
-**Strategy Committee**, 15% FTE 
-
-Co-founder [Stride Labs](https://www.stride.zone/) and ex-[Bridgewater](https://www.bridgewater.com/) associate. He was the head of machine learning research at Berkeley.
-
 ### [Carter Lee Woetzel](https://x.com/l_woetzel)
 **Strategy Committee**
 
@@ -63,11 +53,6 @@ Lead Researcher at [Shade Protocol](https://shadeprotocol.io/).
 
 
 ## AADAO Oversight Committee
-
-### [Damien Bonello](https://x.com/damobon)  
-**Oversight Committee, Coordinator**, 35% FTE
-
-Protocol Specialist and Governance Lead for [Simply Staking](https://simplystaking.com/). He holds a background in Finance and Economics.
 
 ### [Patricia Mizuki](https://www.linkedin.com/in/patricia-mizuki-cia-b6334a5a/?originalSubdomain=ca)  
 **Oversight Committee, Auditor/Controller**, 35% FTE 
@@ -81,6 +66,27 @@ Strategy, Special Situations, & Operations Consultant. Former Head of Strategy a
 
 ## _Former_ Contributors
 
+### [Youssef Amrani](https://x.com/youssef_amrani) 
+**Program Manager (2023)/General Manager (2024) and Strategy Committee Lead**, 100% FTE
+
+Co-founder of AADAO and also serves on the Economic Committee of the IST stablecoin. McGill University graduate in International Business and Finance.
+
+*End Date: September 26, 2024*
+
+### [Riley Edmunds](https://x.com/interchainriley)  
+**Strategy Committee**, 15% FTE 
+
+Co-founder [Stride Labs](https://www.stride.zone/) and ex-[Bridgewater](https://www.bridgewater.com/) associate. He was the head of machine learning research at Berkeley.
+
+*End Date: August 31, 2024*
+
+### [Damien Bonello](https://x.com/damobon)  
+**Oversight Committee, Coordinator**, 35% FTE
+
+Protocol Specialist and Governance Lead for [Simply Staking](https://simplystaking.com/). He holds a background in Finance and Economics.
+
+*End Date: June 15, 2024*
+
 ### [Dilan Asatekin](https://www.linkedin.com/in/dilanasatekin/?originalSubdomain=fr) 
 **Grant subDAO**, 50%FTE  
 
@@ -90,6 +96,8 @@ Founder of [Imperator](https://www.imperator.co/).
 **Grant subDAO**, 50% FTE
 
 Chief Investment Officer at [Chorus One](https://chorus.one/).
+
+*End Date: Feburary 24, 2024*
 
 ### [Mikey Lee](https://x.com/mikeyjhlee)
 **Grant subDAO**
