@@ -4,6 +4,6 @@ Grantees are individuals, organizations, or entities that receive funds, resourc
 
 For more information on AADAO grantees in a given funding year, please follow the links provided. 
 
-### [`2023`](https://github.com/gaiaus/aadao/blob/main/grantees/2023.md)
+### [`2023`](https://github.com/gaiaus/aadao/blob/main/grants/2023.md)
 
-### [`2024`](https://github.com/gaiaus/aadao/blob/main/grantees/2024.md)
+### [`2024`](https://github.com/gaiaus/aadao/blob/main/grants/2024.md)
