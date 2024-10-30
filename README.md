@@ -30,6 +30,39 @@ Oversight also has veto power to discontinue grants, and dismiss part-time/full-
 
 For more on the history and composition of the core DAO, subDAO, and oversight committee members, please see [`team`](https://github.com/gaiaus/aadao/tree/main/team).
 
+## Governance Structure and Controls
+
+### Legal Structure
+AADAO operates as a Guernsey Purpose Trust with a British Virgin Islands (BVI) Trustee.
+
+### Governance Framework
+Operations are governed by:
+* Internal Protocols
+* Code of Conduct
+
+### Oversight Committee Composition
+The Committee consists of:
+
+**Elected Member**
+
+Serves 18-month term; removable only through Cosmos Hub governance.
+
+**Non-elected Positions**
+
+Controller/Internal Auditor & Coordinator
+
+### Oversight Role & Responsibilities
+The Oversight Committee will carry out the following duties:
+* Provide oversight on the progress of the grant program, including, but not limited to, milestone payments;
+* Preparation of the Transparency Reports for circulation to the ATOM community;
+* Approve or reject (acting reasonably) the milestone payments connected to grants awarded by the Grant Committee;
+* Request and direct the Strategy Committee to remove any member of AADAO on grounds of gross misconduct, unethical, or fraudulent behavior (see clause 5D Internal Protocols);
+* Propose the dismissal of the GM, following the process listed in clause 5A.
+* Adjudicate conflicts of interest that may from time to time arise in relation to any member performing responsibilities on behalf of AADAO.
+
+Unless otherwise stated, decisions of the Oversight Committee shall be by resolution passed by a majority vote of members, subject to quorum. Each member shall have one vote within the Committee.
+
+
 ## [`Grantees`](https://github.com/gaiaus/aadao)
 
 Grantees are individuals, organizations, or entities that receive funds, resources, or support from a grantor (such as a foundation, government agency, DAO, or other funding bodies) under the terms of a grant agreement. Grantees are typically required to use the funds or resources for specific purposes outlined in the grant agreement, and they often must report on their progress and outcomes to ensure compliance with the grant's objectives and requirements.
