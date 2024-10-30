@@ -22,7 +22,7 @@ Having completed its pilot phase through Proposal #95, ATOM Accelerator DAO aime
 On December 16th, 2023 Proposal [#865: Funding ATOM Accelerator DAO (AADAO) renewal proposal](https://www.mintscan.io/cosmos/proposals/865/) went live on chain, the proposal sought 975,811 ATOM in funding for the next chapter, which included a bonus allocation of 100,000 ATOM. The renewal proposal #865 was passed on December 30th, 2023, which secured an increase in 65.95% ATOM from the previous year.  
 
 ## Team & Structure
-The DAO is split into two teams: the core DAO and the oversight committee. 
+The DAO is split into two teams: the core DAO and the Oversight committee. 
 Together the core members are responsible for program setup, review of proposals, interviewing of applicants, distribution of grants, and multisignature operations. 
 
 The oversight committee is responsible for ensuring the DAO operates efficiently and in the best interest of the Cosmos Hub by implementing policies and procedures, transparency reporting, and having oversight of internal operations.
@@ -33,7 +33,7 @@ For more on the history and composition of the core DAO, subDAO, and oversight c
 ## Governance Structure and Controls
 
 ### Legal Structure
-AADAO operates as a Guernsey Purpose Trust with a British Virgin Islands (BVI) Trustee.
+AADAO operates as a [Guernsey Purpose Trust](https://github.com/gaiaus/aadao/blob/main/guernsey-trust/Purpose%20Trust%2031.07.2024%20%20signed.pdf) with a British Virgin Islands (BVI) Trustee.
 
 ### Governance Framework
 Operations are governed by:
