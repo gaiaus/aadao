@@ -37,7 +37,7 @@ AADAO operates as a [Guernsey Purpose Trust](https://github.com/gaiaus/aadao/blo
 
 ### Governance Framework
 Operations are governed by:
-* Internal Protocols
+* [Internal Protocols](https://github.com/gaiaus/aadao/blob/main/governance/AADAO%20Internal%20Protocols.pdf)
 * Code of Conduct
 
 ### Oversight Committee Composition
@@ -56,7 +56,7 @@ The Oversight Committee will carry out the following duties:
 * Provide oversight on the progress of the grant program, including, but not limited to, milestone payments;
 * Preparation of the Transparency Reports for circulation to the ATOM community;
 * Approve or reject (acting reasonably) the milestone payments connected to grants awarded by the Grant Committee;
-* Request and direct the Strategy Committee to remove any member of AADAO on grounds of gross misconduct, unethical, or fraudulent behavior (see clause 5D Internal Protocols);
+* Request and direct the Strategy Committee to remove any member of AADAO on grounds of gross misconduct, unethical, or fraudulent behavior (see clause 5D [Internal Protocols](https://github.com/gaiaus/aadao/blob/main/governance/AADAO%20Internal%20Protocols.pdf));
 * Propose the dismissal of the GM, following the process listed in clause 5A.
 * Adjudicate conflicts of interest that may from time to time arise in relation to any member performing responsibilities on behalf of AADAO.
 
